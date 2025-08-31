@@ -16,6 +16,7 @@
   "BeamLightEmission": "0x1A4",
   "BeamLightInfuence": "0x1A8",
   "Camera": "0x450",
+  "MeshId": 0x2d8,
   "CameraMaxZoomDistance": "0x2B8",
   "CameraMinZoomDistance": "0x2BC",
   "CameraMode": "0x2C0",
