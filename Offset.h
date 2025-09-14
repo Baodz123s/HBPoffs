@@ -1,6 +1,7 @@
 {
   "RobloxVersion": "Roblox Version: version-8afc5a7d5e894d22",
   "ByfronVersion": "Byfron Version: ???",
+  "PhysicsSenderMaxBandwidthBps": "0x5f0af30",
   "CFrame": "0x130",
   "RenderToFakeDataModel": "0x128",
   "Adornee": "0xD8",
