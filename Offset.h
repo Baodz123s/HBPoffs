@@ -2,8 +2,10 @@
   "RobloxVersion": "Roblox Version: version-8afc5a7d5e894d22",
   "ByfronVersion": "Byfron Version: ???",
   "PhysicsSenderMaxBandwidthBps": "0x60551E4",
-  "WorldStepMax": "0x6058858"
-  "WorldStepsOffsetAdjustRate": "0x6058850"
+  "WorldStepMax": "0x6058858",
+  "WorldStepsOffsetAdjustRate": "0x6058850",
+  "GameNetPVHeaderTranslationZeroCutoffExp": "0x6055120",
+  "MaxMissedWorldStepsRemembered": "0x6058884",
   "CFrame": "0x130",
   "RenderToFakeDataModel": "0x128",
   "Adornee": "0xD8",
