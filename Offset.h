@@ -1,7 +1,7 @@
 {
   "RobloxVersion": "Roblox Version: version-d34359a5577645e2",
   "ByfronVersion": "Byfron Version: ???",
-  "PhysicsSenderMaxBandwidthBps": "0x60911F8",         // giữ từ cũ (nếu vẫn còn hợp lệ)
+  "PhysicsSenderMaxBandwidthBps": "0x60EB1F4",         // giữ từ cũ (nếu vẫn còn hợp lệ)
   "WorldStepMax": "0x60553c4",
   "WorldStepsOffsetAdjustRate": "0x609481c",
   "GameNetPVHeaderTranslationZeroCutoffExp": "0x6091130",
