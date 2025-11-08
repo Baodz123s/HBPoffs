@@ -109,7 +109,7 @@
   "OnDemandInstance": "0x38",
   "OutdoorAmbient": "0x108",
   "Parent": "0x60",
-  "PartSize": "0x1CC",
+  "PartSize": "0x1D0",
   "Ping": "0xC8",
   "PlaceId": "0x198",
   "PlayerConfigurerPointer": "0x757C588",
