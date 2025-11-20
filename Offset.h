@@ -17,7 +17,7 @@
   "BeamLightEmission": "0x19C",
   "BeamLightInfuence": "0x1A0",
   "CFrame": "0xF8",
-  "Camera": "0x420",
+  "Camera": "0x418",
   "CameraMaxZoomDistance": "0x2F0",
   "CameraMinZoomDistance": "0x2F4",
   "CameraMode": "0x2F0",
@@ -170,7 +170,7 @@
   "VisualEngineToDataModel2": "0x1C0",
   "WalkSpeed": "0x1D4",
   "WalkSpeedCheck": "0x3A0",
-  "Workspace": "0x170",
+  "Workspace": "0x178",
   "WorkspaceToWorld": "0x390",
   "viewmatrix": "0x4B0"
 }  
