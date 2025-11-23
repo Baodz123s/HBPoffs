@@ -37,7 +37,7 @@
   "ClickDetectorMaxActivationDistance": "0x100",
   "ClockTime": "0x1B8",
   "CreatorId": "0x188",
-  "DataModelDeleterPointer": "0x77A03B0",
+  "DataModelDeleterPointer": "0x77A03A0",
   "DataModelPrimitiveCount": "0x430",
   "DataModelToRenderView1": "0x1D0",
   "DataModelToRenderView2": "0x8",
