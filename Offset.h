@@ -68,7 +68,7 @@
   "FrameSizeY": "0x544",
   "FrameVisible": "0x5B9",
   "GameId": "0x190",
-  "GameLoaded": "0x628",
+  "GameLoaded": "0x5F0",
   "Gravity": "0x968",
   "Health": "0x194",
   "HealthDisplayDistance": "0x318",
