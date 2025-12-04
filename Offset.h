@@ -1,7 +1,7 @@
 {
   "GameNetPVHeaderTranslationZeroCutoffExp": "0x62190FC",
   "MaxMissedWorldStepsRemembered": "0x621C810",
-  "PhysicsSenderMaxBandwidthBps": "0x65E426C",
+  "PhysicsSenderMaxBandwidthBps": "0x66F826C",
   "WorldStepsOffsetAdjustRate ": "0x64FB8F0",
   "WorldStepMax": "0x64FB8EC",
   "Adornee": "0xD0",
