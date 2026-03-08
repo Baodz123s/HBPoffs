@@ -37,7 +37,7 @@
   "ClickDetectorMaxActivationDistance": "0x100",
   "ClockTime": "0x1B8",
   "CreatorId": "0x188",
-  "DataModelDeleterPointer": "0x7F6C230",
+  "DataModelDeleterPointer": "0x7F6C220",
   "DataModelPrimitiveCount": "0x440",
   "DataModelToRenderView1": "0x1D0",
   "DataModelToRenderView2": "0x8",
@@ -169,11 +169,11 @@
   "ViewportSize": "0x2E8",
   "VisualEngine": "0x10",
   "VisualEnginePointer": "0x7B1F068",
-  "VisualEngineToDataModel1": "0x840",
-  "VisualEngineToDataModel2": "0x6F0",
+  "VisualEngineToDataModel1": "0xA50",
+  "VisualEngineToDataModel2": "0x1C0",
   "WalkSpeed": "0x1D4",
   "WalkSpeedCheck": "0x3B8",
   "Workspace": "0x178",
   "WorkspaceToWorld": "0x3D8",
-  "viewmatrix": "0x120"
+  "viewmatrix": "0x470"
 }
