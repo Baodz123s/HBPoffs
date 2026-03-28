@@ -30,7 +30,7 @@
   "CanTouch": "0x1AE",
   "CanTouchMask": "0x10",
   "CharacterAppearanceId": "0x2C8",
-  "Children": "0x70",
+  "Children": "0x78",
   "ChildrenEnd": "0x8",
   "ClassDescriptor": "0x18",
   "ClassDescriptorToClassName": "0x8",
@@ -169,11 +169,11 @@
   "ViewportSize": "0x2E8",
   "VisualEngine": "0x10",
   "VisualEnginePointer": "0x7510a58",
-  "VisualEngineToDataModel1": "0xA50",
+  "VisualEngineToDataModel1": "0xA40",
   "VisualEngineToDataModel2": "0x1C0",
   "WalkSpeed": "0x1D4",
   "WalkSpeedCheck": "0x3BC",
   "Workspace": "0x178",
   "WorkspaceToWorld": "0x3E0",
-  "viewmatrix": "0x140"
+  "viewmatrix": "0x130"
 }
