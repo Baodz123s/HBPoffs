@@ -68,7 +68,7 @@
   "FrameSizeY": "0x53C",
   "FrameVisible": "0x5B5",
   "GameId": "0x190",
-  "GameLoaded": "0x638",
+  "GameLoaded": "0x600",
   "Gravity": "0x1D0",
   "Health": "0x194",
   "HealthDisplayDistance": "0x348",
@@ -175,5 +175,5 @@
   "WalkSpeedCheck": "0x3BC",
   "Workspace": "0x178",
   "WorkspaceToWorld": "0x3E0",
-  "viewmatrix": "0x130"
+  "viewmatrix": "0x140"
 }
