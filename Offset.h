@@ -133,7 +133,7 @@
   "RenderJobToDataModel": "0x1B0",
   "RenderJobToFakeDataModel": "0x38",
   "RenderJobToRenderView": "0x1D0",
-  "RequireBypass": "0x928",
+  "RequireBypass": "0x860",
   "RigType": "0x1C8",
   "RootPartR15": "0x5D8",
   "RootPartR6": "0x478",
