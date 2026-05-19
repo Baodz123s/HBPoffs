@@ -165,7 +165,7 @@
   "UserId": "0x2D8",
   "Value": "0xD0",
   "ValueGetSetToValue": "0xC0",
-  "Velocity": "0xF0",
+  "Velocity": "0xf8",
   "ViewportSize": "0x2E8",
   "VisualEngine": "0x10",
   "VisualEnginePointer": "0x7bd71f8",
