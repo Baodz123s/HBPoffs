@@ -5,7 +5,7 @@
   "WorldStepsOffsetAdjustRate": "0x7500550",
   "WorldStepMax": "0x750054c",
 
-  "Adornee": "0xD0",
+  "Adornee": "0x108",
   "Anchored": "0x1B6",
   "AnchoredMask": "0x2",
   "AnimationId": "0xD0",
@@ -226,7 +226,7 @@
   "TaskSchedulerPointer": "0x7E90548",
 
   "Team": "0x2B0",
-  "TeamColor": "0xD0",
+  "TeamColor": "0x374",
 
   "TextLabelText": "0xDA0",
   "TextLabelVisible": "0x5B5",
@@ -235,7 +235,7 @@
 
   "Transparency": "0xF0",
 
-  "UserId": "0x2E8",
+  "UserId": "0x2D8",
 
   "Value": "0xD0",
   "ValueGetSetToValue": "0xC0",
@@ -255,5 +255,5 @@
   "Workspace": "0x178",
   "WorkspaceToWorld": "0x408",
 
-  "viewmatrix": "0x7D0"
+  "viewmatrix": "0x150"
 }
