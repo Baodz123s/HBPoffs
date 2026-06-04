@@ -150,7 +150,7 @@
   "MeshPartColor3": "0x194",
   "MeshPartTexture": "0x330",
 
-  "ModelInstance": "0x3A8",
+  "ModelInstance": "0x280",
 
   "ModuleScriptByteCode": "0x150",
   "ModuleScriptBytecodePointer": "0x10",
