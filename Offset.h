@@ -53,7 +53,7 @@
 
   "CreatorId": "0x190",
 
-  "DataModelDeleterPointer": "0x78FF220",
+  "DataModelDeleterPointer": "0x7A39AD0",
 
   "DataModelPrimitiveCount": "0x480",
 
@@ -77,8 +77,8 @@
 
   "FOV": "0x160",
 
-  "FakeDataModelPointer": "0x78FF228",
-  "FakeDataModelToDataModel": "0x1D0",
+  "FakeDataModelPointer": "0x7A39AD8",
+  "FakeDataModelToDataModel": "0x1D8",
 
   "FogColor": "0x104",
   "FogEnd": "0x13C",
@@ -101,7 +101,7 @@
   "FrameVisible": "0x5B5",
 
   "GameId": "0x198",
-  "GameLoaded": "0x638",
+  "GameLoaded": "0x670",
 
   "Gravity": "0x210",
 
@@ -132,7 +132,7 @@
   "JobStart": "0xC8",
   "Job_Name": "0x18",
 
-  "JobsPointer": "0x7E90720",
+  "JobsPointer": "0x7FCB260",
 
   "JumpPower": "0x1B0",
 
@@ -223,7 +223,7 @@
   "TagList": "0x0",
 
   "TaskSchedulerMaxFPS": "0x7E90188",
-  "TaskSchedulerPointer": "0x7E90548",
+  "TaskSchedulerPointer": "0x7FCB088",
 
   "Team": "0x2B0",
   "TeamColor": "0x374",
@@ -245,7 +245,7 @@
   "ViewportSize": "0x2E8",
 
   "VisualEngine": "0x10",
-  "VisualEnginePointer": "0x801DFB0",
+  "VisualEnginePointer": "0x8158B80",
   "VisualEngineToDataModel1": "0xA90",
   "VisualEngineToDataModel2": "0x1D0",
 
