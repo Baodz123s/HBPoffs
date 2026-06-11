@@ -1,14 +1,14 @@
 {
-  "GameNetPVHeaderTranslationZeroCutoffExp": "0x74da0b0",
-  "MaxMissedWorldStepsRemembered": "0x7500554",
-  "PhysicsSenderMaxBandwidthBps": "0x74da5ec",
-  "WorldStepsOffsetAdjustRate": "0x7500550",
-  "WorldStepMax": "0x750054c",
+  "GameNetPVHeaderTranslationZeroCutoffExp": "0x760a120",
+  "MaxMissedWorldStepsRemembered": "0x7636ef8",
+  "PhysicsSenderMaxBandwidthBps": "0x760a634",
+  "WorldStepsOffsetAdjustRate": "0x7636ef4",
+  "WorldStepMax": "0x7636ef0",
 
   "Adornee": "0x108",
   "Anchored": "0x1B6",
   "AnchoredMask": "0x2",
-  "AnimationId": "0xD0",
+  "AnimationId": "0xD8",
 
   "AttributeToNext": "0x58",
   "AttributeToValue": "0x18",
@@ -17,17 +17,17 @@
 
   "BanningEnabled": "0x14C",
 
-  "BeamBrightness": "0x190",
+  "BeamBrightness": "0x198",
   "BeamColor": "0x124",
-  "BeamLightEmission": "0x19C",
-  "BeamLightInfuence": "0x1A0",
+  "BeamLightEmission": "0x1A4",
+  "BeamLightInfuence": "0x1A8",
 
   "CFrame": "0xC8",
 
   "Camera": "0x4B0",
-  "CameraMaxZoomDistance": "0x330",
-  "CameraMinZoomDistance": "0x334",
-  "CameraMode": "0x338",
+  "CameraMaxZoomDistance": "0x349",
+  "CameraMinZoomDistance": "0x354",
+  "CameraMode": "0x358",
   "CameraPos": "0x11C",
   "CameraRotation": "0xF8",
   "CameraSubject": "0xE8",
@@ -55,7 +55,7 @@
 
   "DataModelDeleterPointer": "0x7A39AD0",
 
-  "DataModelPrimitiveCount": "0x480",
+  "DataModelPrimitiveCount": "0x4A0",
 
   "DataModelToRenderView1": "0x1D8",
   "DataModelToRenderView2": "0x8",
@@ -68,7 +68,7 @@
 
   "Dimensions": "0xAB0",
 
-  "DisplayName": "0x130",
+  "DisplayName": "0x150",
 
   "EvaluateStateMachine": "0x1E4",
 
@@ -86,10 +86,10 @@
 
   "ForceNewAFKDuration": "0x74D77F4",
 
-  "FramePositionOffsetX": "0x514",
-  "FramePositionOffsetY": "0x51C",
-  "FramePositionX": "0x510",
-  "FramePositionY": "0x518",
+  "FramePositionOffsetX": "0x334",
+  "FramePositionOffsetY": "0x33C",
+  "FramePositionX": "0x330",
+  "FramePositionY": "0x338",
 
   "FrameRotation": "0x188",
 
@@ -150,7 +150,7 @@
   "MeshPartColor3": "0x194",
   "MeshPartTexture": "0x330",
 
-  "ModelInstance": "0x3a8",
+  "ModelInstance": "0x3C8",
 
   "ModuleScriptByteCode": "0x150",
   "ModuleScriptBytecodePointer": "0x10",
@@ -160,7 +160,7 @@
 
   "MousePosition": "0xEC",
 
-  "MouseSensitivity": "0x7AC6128",
+  "MouseSensitivity": "0x7C022E8",
 
   "MoveDirection": "0x158",
 
@@ -181,7 +181,7 @@
 
   "PlaceId": "0x1A0",
 
-  "PlayerConfigurerPointer": "0x7904390",
+  "PlayerConfigurerPointer": "0x7A3ECA0",
   "PlayerMouse": "0x1180",
 
   "Position": "0xEC",
@@ -225,8 +225,8 @@
   "TaskSchedulerMaxFPS": "0x7E90188",
   "TaskSchedulerPointer": "0x7FCB088",
 
-  "Team": "0x2B0",
-  "TeamColor": "0x374",
+  "Team": "0x2d0",
+  "TeamColor": "0x394",
 
   "TextLabelText": "0xDA0",
   "TextLabelVisible": "0x5B5",
@@ -235,7 +235,7 @@
 
   "Transparency": "0xF0",
 
-  "UserId": "0x2D8",
+  "UserId": "0x2f8",
 
   "Value": "0xD0",
   "ValueGetSetToValue": "0xC0",
