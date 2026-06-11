@@ -86,7 +86,7 @@
 
   "ForceNewAFKDuration": "0x74D77F4",
 
-"FramePositionOffsetX": "0x51C",
+  "FramePositionOffsetX": "0x51C",
   "FramePositionOffsetY": "0x524",
   "FramePositionX": "0x518",
   "FramePositionY": "0x520",
@@ -95,7 +95,7 @@
   "FrameSizeOffsetY": "0x544",
   "FrameSizeX": "0x538",
   "FrameSizeY": "0x53C",
-  "FrameVisible": "0x5B5",
+  "FrameVisible": "0x5AD",
 
   "GameId": "0x198",
   "GameLoaded": "0x670",
