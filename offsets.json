@@ -7,6 +7,13 @@
   "Discord": "https://discord.gg/rbxoffsets",
   "Total Offsets": 390,
   "Offsets": {
+    "FFlags": {
+      "GameNetPVHeaderTranslationZeroCutoffExp": "0x760a120",
+      "MaxMissedWorldStepsRemembered": "0x7636ef8",
+      "PhysicsSenderMaxBandwidthBps": "0x760a634",
+      "WorldStepsOffsetAdjustRate": "0x7636ef4",
+      "WorldStepMax": "0x7636ef0",
+    },
     "PlayerConfigurer": {
       "Pointer": "0x0"
     },
