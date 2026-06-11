@@ -86,18 +86,15 @@
 
   "ForceNewAFKDuration": "0x74D77F4",
 
-  "FramePositionOffsetX": "0x334",
-  "FramePositionOffsetY": "0x33C",
-  "FramePositionX": "0x330",
-  "FramePositionY": "0x338",
-
+"FramePositionOffsetX": "0x51C",
+  "FramePositionOffsetY": "0x524",
+  "FramePositionX": "0x518",
+  "FramePositionY": "0x520",
   "FrameRotation": "0x188",
-
-  "FrameSizeOffsetX": "0x538",
-  "FrameSizeOffsetY": "0x53C",
-  "FrameSizeX": "0x530",
-  "FrameSizeY": "0x534",
-
+  "FrameSizeOffsetX": "0x540",
+  "FrameSizeOffsetY": "0x544",
+  "FrameSizeX": "0x538",
+  "FrameSizeY": "0x53C",
   "FrameVisible": "0x5B5",
 
   "GameId": "0x198",
