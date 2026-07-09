@@ -8,35 +8,35 @@
   "Total Offsets": 390,
   "Offsets": {
     "FFlags": {
-      "GameNetPVHeaderTranslationZeroCutoffExp": "0x77f0780",
-      "MaxMissedWorldStepsRemembered": "0x78278f8",
-      "PhysicsSenderMaxBandwidthBps": "0x77f1670",
-      "WorldStepsOffsetAdjustRate": "0x78278e0",
-      "WorldStepMax": "0x78278c8"
+      "GameNetPVHeaderTranslationZeroCutoffExp": "0x78647d0",
+      "MaxMissedWorldStepsRemembered": "0x789bd30",
+      "PhysicsSenderMaxBandwidthBps": "0x78656d8",
+      "WorldStepsOffsetAdjustRate": "0x789bd18",
+      "WorldStepMax": "0x789bd00"
     },
-      "PlayerConfigurer": {
+    "PlayerConfigurer": {
     "Pointer": "0x0"
   },
   "TaskScheduler": {
-    "Pointer": "0x81cc868",
+    "Pointer": "0x8244248",
     "JobStart": "0xc8",
     "JobEnd": "0xd0",
     "JobName": "0x18",
     "MaxFPS": "0xb0"
   },
   "VisualEngine": {
-    "Pointer": "0x835a548",
+    "Pointer": "0x83d1f98",
     "Dimensions": "0xab0",
     "ViewMatrix": "0x150",
     "RenderView": "0xbb8",
     "FakeDataModel": "0xa90"
   },
   "FakeDataModel": {
-    "Pointer": "0x7c3d2e8",
+    "Pointer": "0x7cb3d78",
     "RealDataModel": "0x1d0"
   },
   "MouseService": {
-    "SensitivityPointer": "0x7dfd318",
+    "SensitivityPointer": "0x7e743c8",
     "InputObject": "0xf0",
     "InputObject2": "0x100",
     "MousePosition": "0xd4"
@@ -99,20 +99,20 @@
     "PlaceId": "0x190",
     "GameId": "0x188",
     "CreatorId": "0x180",
-    "GameLoaded": "0x658",
+    "GameLoaded": "0x668",
     "JobId": "0x120",
     "Workspace": "0x160",
     "ScriptContext": "0x440",
     "PlaceVersion": "0x1ac",
-    "ServerIP": "0x640",
+    "ServerIP": "0x650",
     "ToRenderView1": "0x1c8",
     "ToRenderView2": "0x8",
     "ToRenderView3": "0x28",
-    "PrimitiveCount": "0x488"
+    "PrimitiveCount": "0x498"
   },
   "RunService": {
-    "HeartbeatTask": "0x1b0",
-    "HeartbeatFPS": "0xbc"
+    "HeartbeatTask": "0x308",
+    "HeartbeatFPS": "0xd0"
   },
   "RenderJob": {
     "RenderView": "0x1d0",
@@ -120,10 +120,10 @@
     "RealDataModel": "0x1c8"
   },
   "Workspace": {
-    "World": "0x3f8",
-    "ReadOnlyGravity": "0x9b0",
-    "DistributedGameTime": "0x4c0",
-    "CurrentCamera": "0x4a0"
+    "World": "0x3e0",
+    "ReadOnlyGravity": "0x998",
+    "DistributedGameTime": "0x4a8",
+    "CurrentCamera": "0x488"
   },
   "World": {
     "Gravity": "0x210",
@@ -229,19 +229,19 @@
   },
   "Player": {
     "LocalPlayer": "0x130",
-    "UserId": "0x2f0",
+    "UserId": "0x300",
     "DisplayName": "0x138",
-    "HealthDisplayDistance": "0x380",
-    "NameDisplayDistance": "0x390",
+    "HealthDisplayDistance": "0x390",
+    "NameDisplayDistance": "0x3a0",
     "ModelInstance": "0x298",
-    "Team": "0x2c8",
-    "TeamColor": "0x39c",
+    "Team": "0x2d8",
+    "TeamColor": "0x3ac",
     "LocaleId": "0x118",
-    "AccountAge": "0x34c",
-    "MinZoomDistance": "0x35c",
-    "MaxZoomDistance": "0x358",
-    "CameraMode": "0x360",
-    "Mouse": "0x11c8"
+    "AccountAge": "0x35c",
+    "MinZoomDistance": "0x36c",
+    "MaxZoomDistance": "0x368",
+    "CameraMode": "0x370",
+    "Mouse": "0x11d8"
   },
   "Team": {
     "BrickColor": "0xb8"
@@ -397,7 +397,7 @@
     "BorderColor3": "0x54c",
     "TextColor3": "0xe50",
     "LayoutOrder": "0x580",
-    "ZIndex": "0x5a4",
+    "ZIndex": "0x18b",
     "BackgroundTransparency": "0x54c",
     "Rotation": "0x178"
   },
@@ -498,7 +498,7 @@
   "ProximityPrompt": {
     "ActionText": "0xb0",
     "ObjectText": "0xd0",
-    "HoldDuration": "0x120",
+    "HoldDuration": "0x97",
     "MaxActivationDistance": "0x128",
     "KeyCode": "0x124",
     "GamepadKeyCode": "0x11c",
@@ -524,14 +524,14 @@
   },
   "AnimationTrack": {
     "Animation": "0xb8",
-    "Animator": "0x100",
-    "Speed": "0xcc",
-    "TimePosition": "0xd0",
-    "Looped": "0xdd",
-    "IsPlaying": "0xa40"
+    "Animator": "0x108",
+    "Speed": "0xd4",
+    "TimePosition": "0xd8",
+    "Looped": "0xe5",
+    "IsPlaying": "0xa90"
   },
   "Animator": {
-    "ActiveAnimations": "0x9d0"
+    "ActiveAnimations": "0xa20"
   },
   "LocalScript": {
     "GUID": "0xd0",
