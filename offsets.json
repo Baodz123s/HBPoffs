@@ -8,35 +8,35 @@
   "Total Offsets": 390,
   "Offsets": {
     "FFlags": {
-      "GameNetPVHeaderTranslationZeroCutoffExp": "0x78647d0",
-      "MaxMissedWorldStepsRemembered": "0x789bd30",
-      "PhysicsSenderMaxBandwidthBps": "0x78656d8",
-      "WorldStepsOffsetAdjustRate": "0x789bd18",
-      "WorldStepMax": "0x789bd00"
+      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7991158",
+      "MaxMissedWorldStepsRemembered": "0x797fe18",
+      "PhysicsSenderMaxBandwidthBps": "0x798fa88",
+      "WorldStepsOffsetAdjustRate": "0x797fe00",
+      "WorldStepMax": "0x797fde8"
     },
     "PlayerConfigurer": {
     "Pointer": "0x0"
   },
   "TaskScheduler": {
-    "Pointer": "0x8244248",
+    "Pointer": "0x8041ec8",
     "JobStart": "0xc8",
     "JobEnd": "0xd0",
     "JobName": "0x18",
     "MaxFPS": "0xb0"
   },
   "VisualEngine": {
-    "Pointer": "0x83d1f98",
+    "Pointer": "0x81d61c8",
     "Dimensions": "0xab0",
     "ViewMatrix": "0x150",
     "RenderView": "0xbb8",
     "FakeDataModel": "0xa90"
   },
   "FakeDataModel": {
-    "Pointer": "0x7cb3d78",
+    "Pointer": "0x84a9e98",
     "RealDataModel": "0x1d0"
   },
   "MouseService": {
-    "SensitivityPointer": "0x7e743c8",
+    "SensitivityPointer": "0x0",
     "InputObject": "0xf0",
     "InputObject2": "0x100",
     "MousePosition": "0xd4"
@@ -111,8 +111,8 @@
     "PrimitiveCount": "0x498"
   },
   "RunService": {
-    "HeartbeatTask": "0x308",
-    "HeartbeatFPS": "0xd0"
+    "HeartbeatTask": "0xc08",
+    "HeartbeatFPS": "0xb4"
   },
   "RenderJob": {
     "RenderView": "0x1d0",
@@ -178,7 +178,7 @@
     "Looped": "0x13d"
   },
   "SpawnLocation": {
-    "AllowTeamChangeOnTouch": "0x188",
+    "AllowTeamChangeOnTouch": "0x3d",
     "Enabled": "0x189",
     "Neutral": "0x18a",
     "ForcefieldDuration": "0x180",
@@ -498,7 +498,7 @@
   "ProximityPrompt": {
     "ActionText": "0xb0",
     "ObjectText": "0xd0",
-    "HoldDuration": "0x97",
+    "HoldDuration": "0x120",
     "MaxActivationDistance": "0x128",
     "KeyCode": "0x124",
     "GamepadKeyCode": "0x11c",
