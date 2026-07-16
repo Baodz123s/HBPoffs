@@ -8,35 +8,35 @@
   "Total Offsets": 390,
   "Offsets": {
     "FFlags": {
-      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7991158",
-      "MaxMissedWorldStepsRemembered": "0x797fe18",
-      "PhysicsSenderMaxBandwidthBps": "0x798fa88",
-      "WorldStepsOffsetAdjustRate": "0x797fe00",
-      "WorldStepMax": "0x797fde8"
+      "GameNetPVHeaderTranslationZeroCutoffExp": "0x78d3870",
+      "MaxMissedWorldStepsRemembered": "0x790b078",
+      "PhysicsSenderMaxBandwidthBps": "0x78d4748",
+      "WorldStepsOffsetAdjustRate": "0x790b060",
+      "WorldStepMax": "0x790b048"
     },
     "PlayerConfigurer": {
     "Pointer": "0x0"
   },
   "TaskScheduler": {
-    "Pointer": "0x8041ec8",
+    "Pointer": "0x82b9f48",
     "JobStart": "0xc8",
     "JobEnd": "0xd0",
     "JobName": "0x18",
     "MaxFPS": "0xb0"
   },
   "VisualEngine": {
-    "Pointer": "0x81d61c8",
+    "Pointer": "0x8447c68",
     "Dimensions": "0xab0",
     "ViewMatrix": "0x150",
     "RenderView": "0xbb8",
     "FakeDataModel": "0xa90"
   },
   "FakeDataModel": {
-    "Pointer": "0x84a9e98",
+    "Pointer": "0x7d28508",
     "RealDataModel": "0x1d0"
   },
   "MouseService": {
-    "SensitivityPointer": "0x0",
+    "SensitivityPointer": "0x7ee9b58",
     "InputObject": "0xf0",
     "InputObject2": "0x100",
     "MousePosition": "0xd4"
@@ -99,20 +99,20 @@
     "PlaceId": "0x190",
     "GameId": "0x188",
     "CreatorId": "0x180",
-    "GameLoaded": "0x668",
+    "GameLoaded": "0x578",
     "JobId": "0x120",
     "Workspace": "0x160",
     "ScriptContext": "0x440",
     "PlaceVersion": "0x1ac",
-    "ServerIP": "0x650",
+    "ServerIP": "0x560",
     "ToRenderView1": "0x1c8",
     "ToRenderView2": "0x8",
     "ToRenderView3": "0x28",
-    "PrimitiveCount": "0x498"
+    "PrimitiveCount": "0x3c0"
   },
   "RunService": {
-    "HeartbeatTask": "0xc08",
-    "HeartbeatFPS": "0xb4"
+    "HeartbeatTask": "0x3b8",
+    "HeartbeatFPS": "0xf4"
   },
   "RenderJob": {
     "RenderView": "0x1d0",
@@ -120,21 +120,21 @@
     "RealDataModel": "0x1c8"
   },
   "Workspace": {
-    "World": "0x3e0",
+    "World": "0x368",
     "ReadOnlyGravity": "0x998",
     "DistributedGameTime": "0x4a8",
     "CurrentCamera": "0x488"
   },
   "World": {
-    "Gravity": "0x210",
-    "worldStepsPerSec": "0x680",
-    "FallenPartsDestroyHeight": "0x208",
-    "AirProperties": "0x218",
-    "Primitives": "0x288"
+    "Gravity": "0x1a4",
+    "worldStepsPerSec": "0xc16",
+    "FallenPartsDestroyHeight": "0x0",
+    "AirProperties": "0x0",
+    "Primitives": "0x0"
   },
   "AirProperties": {
-    "AirDensity": "0x18",
-    "GlobalWind": "0x3c"
+    "AirDensity": "0x0",
+    "GlobalWind": "0x0"
   },
   "Terrain": {
     "GrassLength": "0x188",
@@ -175,10 +175,11 @@
     "PlaybackSpeed": "0x11c",
     "Volume": "0x130",
     "SoundGroup": "0xe8",
+    "IsPlaying": "0x140",
     "Looped": "0x13d"
   },
   "SpawnLocation": {
-    "AllowTeamChangeOnTouch": "0x3d",
+    "AllowTeamChangeOnTouch": "0x188",
     "Enabled": "0x189",
     "Neutral": "0x18a",
     "ForcefieldDuration": "0x180",
@@ -239,7 +240,7 @@
     "LocaleId": "0x118",
     "AccountAge": "0x35c",
     "MinZoomDistance": "0x36c",
-    "MaxZoomDistance": "0x368",
+    "MaxZoomDistance": "0x1bd",
     "CameraMode": "0x370",
     "Mouse": "0x11d8"
   },
@@ -379,7 +380,7 @@
     "Part1": "0xc8"
   },
   "UnionOperation": {
-    "AssetId": "0x288"
+    "AssetId": "0x290"
   },
   "PlayerMouse": {
     "Workspace": "0x150",
@@ -397,7 +398,7 @@
     "BorderColor3": "0x54c",
     "TextColor3": "0xe50",
     "LayoutOrder": "0x580",
-    "ZIndex": "0x18b",
+    "ZIndex": "0x5a4",
     "BackgroundTransparency": "0x54c",
     "Rotation": "0x178"
   },
