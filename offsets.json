@@ -33,7 +33,7 @@
   },
   "FakeDataModel": {
     "Pointer": "0x7e26978",
-    "RealDataModel": "0x1d0"
+    "RealDataModel": "0x1d8"
   },
   "MouseService": {
     "SensitivityPointer": "0x7fd51b8",
@@ -115,9 +115,9 @@
     "HeartbeatFPS": "0xf4"
   },
   "RenderJob": {
-    "RenderView": "0x1d0",
+    "RenderView": "0x1d8",
     "FakeDataModel": "0x38",
-    "RealDataModel": "0x1c8"
+    "RealDataModel": "0x1d0"
   },
   "Workspace": {
     "World": "0x3f0",
@@ -128,7 +128,7 @@
   "World": {
     "Gravity": "0x210",
     "worldStepsPerSec": "0x700",
-    "FallenPartsDestroyHeight": "0x208",
+    "FallenPartsDestroyHeight": "0x210",
     "AirProperties": "0x218",
     "Primitives": "0x288"
   },
@@ -330,9 +330,9 @@
     "ViewportSize": "0x2c8"
   },
   "BasePart": {
-    "Primitive": "0x128",
-    "Transparency": "0xd0",
-    "Color3": "0x148",
+    "Primitive": "0x188",
+    "Transparency": "0x130",
+    "Color3": "0x1a8",
     "Shape": "0x159",
     "Massless": "0xd7",
     "CastShadow": "0xd5",
@@ -343,7 +343,7 @@
     "Position": "0xec",
     "Validate": "0x6",
     "Owner": "0x208",
-    "Size": "0x1b8",
+    "Size": "0x1bc",
     "Rotation": "0xc8",
     "Flags": "0x1b6",
     "Material": "0x0",
