@@ -8,31 +8,31 @@
   "Total Offsets": 390,
   "Offsets": {
     "FFlags": {
-      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7b3e778",
-      "MaxMissedWorldStepsRemembered": "0x7ac50a0",
-      "PhysicsSenderMaxBandwidthBps": "0x7b3cee8",
-      "WorldStepsOffsetAdjustRate": "0x7ac5078",
-      "WorldStepMax": "0x7ac5050"
+      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7a90ce8",
+      "MaxMissedWorldStepsRemembered": "0x7a7e868",
+      "PhysicsSenderMaxBandwidthBps": "0x7a8e900",
+      "WorldStepsOffsetAdjustRate": "0x7a7e840",
+      "WorldStepMax": "0x7a7e818"
     },
    "PlayerConfigurer": {
     "Pointer": "0x0"
   },
   "TaskScheduler": {
-    "Pointer": "0x89dd108",
+    "Pointer": "0x88b64c8",
     "JobStart": "0xc8",
     "JobEnd": "0xd0",
     "JobName": "0x18",
     "MaxFPS": "0xb0"
   },
   "VisualEngine": {
-    "Pointer": "0x827dd88",
+    "Pointer": "0x8136228",
     "Dimensions": "0xae0",
     "ViewMatrix": "0x180",
     "RenderView": "0xc00",
     "FakeDataModel": "0xac0"
   },
   "FakeDataModel": {
-    "Pointer": "0x8c426f8",
+    "Pointer": "0x8b79b58",
     "RealDataModel": "0x1d8"
   },
   "MouseService": {
@@ -90,20 +90,20 @@
     "PlaceId": "0x188",
     "GameId": "0x180",
     "CreatorId": "0x178",
-    "GameLoaded": "0x5c0",
+    "GameLoaded": "0x570",
     "JobId": "0x118",
     "Workspace": "0x158",
     "ScriptContext": "0x440",
     "PlaceVersion": "0x1a4",
-    "ServerIP": "0x5a8",
+    "ServerIP": "0x558",
     "ToRenderView1": "0x1c0",
     "ToRenderView2": "0x8",
     "ToRenderView3": "0x28",
-    "PrimitiveCount": "0x408"
+    "PrimitiveCount": "0x3b8"
   },
   "RunService": {
-    "HeartbeatTask": "0xe0",
-    "HeartbeatFPS": "0xc8"
+    "HeartbeatTask": "0x3b8",
+    "HeartbeatFPS": "0xf4"
   },
   "RenderJob": {
     "RenderView": "0x1d8",
@@ -112,7 +112,7 @@
   },
   "Workspace": {
     "World": "0x3f0",
-    "ReadOnlyGravity": "0x9c8",
+    "ReadOnlyGravity": "0x9c0",
     "DistributedGameTime": "0x4b8",
     "CurrentCamera": "0x498"
   },
@@ -177,12 +177,12 @@
     "TeamColor": "0x1e4"
   },
   "SurfaceAppearance": {
-    "AlphaMode": "0x1f0",
-    "Color": "0x1d8",
+    "AlphaMode": "0x290",
+    "Color": "0x278",
     "ColorMap": "0xc8",
     "EmissiveMaskContent": "0xf8",
-    "EmissiveStrength": "0x1f4",
-    "EmissiveTint": "0x1e4",
+    "EmissiveStrength": "0x294",
+    "EmissiveTint": "0x284",
     "MetalnessMap": "0x128",
     "NormalMap": "0x158",
     "RoughnessMap": "0x188"
@@ -231,7 +231,7 @@
     "LocaleId": "0x118",
     "AccountAge": "0x35c",
     "MinZoomDistance": "0x36c",
-    "MaxZoomDistance": "0x15d",
+    "MaxZoomDistance": "0x368",
     "CameraMode": "0x370",
     "Mouse": "0x11f0"
   },
@@ -260,8 +260,8 @@
     "RigType": "0x1c0",
     "Jump": "0x1da",
     "Sit": "0x1dd",
-    "PlatformStand": "0x1dc",
-    "UseJumpPower": "0x1e0",
+    "PlatformStand": "0xc5",
+    "UseJumpPower": "0xc5",
     "AutomaticScalingEnabled": "0x1d6",
     "BreakJointsOnDeath": "0x1d7",
     "EvaluateStateMachine": "0x1d8",
@@ -520,7 +520,7 @@
     "Speed": "0xd4",
     "TimePosition": "0xd8",
     "Looped": "0xe5",
-    "IsPlaying": "0xa50"
+    "IsPlaying": "0xa90"
   },
   "Animator": {
     "ActiveAnimations": "0xb80"
