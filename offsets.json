@@ -8,32 +8,32 @@
   "Total Offsets": 390,
   "Offsets": {
     "FFlags": {
-      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7a90ce8",
-      "MaxMissedWorldStepsRemembered": "0x7a7e868",
-      "PhysicsSenderMaxBandwidthBps": "0x7a8e900",
-      "WorldStepsOffsetAdjustRate": "0x7a7e840",
-      "WorldStepMax": "0x7a7e818"
+      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7ba1428",
+      "MaxMissedWorldStepsRemembered": "0x7b27d40",
+      "PhysicsSenderMaxBandwidthBps": "0x7b9fb88",
+      "WorldStepsOffsetAdjustRate": "0x7b27d18",
+      "WorldStepMax": "0x7b27cf0"
     },
    "PlayerConfigurer": {
     "Pointer": "0x0"
   },
   "TaskScheduler": {
-    "Pointer": "0x88b64c8",
+    "Pointer": "0x8a44d68",
     "JobStart": "0xc8",
     "JobEnd": "0xd0",
     "JobName": "0x18",
     "MaxFPS": "0xb0"
   },
   "VisualEngine": {
-    "Pointer": "0x8136228",
+    "Pointer": "0x82e2128",
     "Dimensions": "0xae0",
     "ViewMatrix": "0x180",
     "RenderView": "0xc00",
     "FakeDataModel": "0xac0"
   },
   "FakeDataModel": {
-    "Pointer": "0x8b79b58",
-    "RealDataModel": "0x1d8"
+    "Pointer": "0x8ca9cc8",
+    "RealDataModel": "0x1f8"
   },
   "MouseService": {
     "SensitivityPointer": "0x0",
@@ -87,19 +87,19 @@
     "VertexStart": "0x0"
   },
   "DataModel": {
-    "PlaceId": "0x188",
-    "GameId": "0x180",
-    "CreatorId": "0x178",
-    "GameLoaded": "0x570",
+    "PlaceId": "0x190",
+    "GameId": "0x188",
+    "CreatorId": "0x180",
+    "GameLoaded": "0x5d0",
     "JobId": "0x118",
     "Workspace": "0x158",
     "ScriptContext": "0x440",
-    "PlaceVersion": "0x1a4",
-    "ServerIP": "0x558",
-    "ToRenderView1": "0x1c0",
+    "PlaceVersion": "0x1ac",
+    "ServerIP": "0x5b8",
+    "ToRenderView1": "0x1c8",
     "ToRenderView2": "0x8",
     "ToRenderView3": "0x28",
-    "PrimitiveCount": "0x3b8"
+    "PrimitiveCount": "0x418"
   },
   "RunService": {
     "HeartbeatTask": "0x3b8",
@@ -108,24 +108,24 @@
   "RenderJob": {
     "RenderView": "0x1d8",
     "FakeDataModel": "0x38",
-    "RealDataModel": "0x1d0"
+    "RealDataModel": "0x1f0"
   },
   "Workspace": {
-    "World": "0x3f0",
-    "ReadOnlyGravity": "0x9c0",
+    "World": "0x368",
+    "ReadOnlyGravity": "0x9c8",
     "DistributedGameTime": "0x4b8",
     "CurrentCamera": "0x498"
   },
   "World": {
-    "Gravity": "0x210",
-    "worldStepsPerSec": "0x708",
-    "FallenPartsDestroyHeight": "0x208",
-    "AirProperties": "0x220",
-    "Primitives": "0x290"
+    "Gravity": "0x1b4",
+    "worldStepsPerSec": "0x0",
+    "FallenPartsDestroyHeight": "0x0",
+    "AirProperties": "0x0",
+    "Primitives": "0x0"
   },
   "AirProperties": {
-    "AirDensity": "0x18",
-    "GlobalWind": "0x3c"
+    "AirDensity": "0x0",
+    "GlobalWind": "0x0"
   },
   "Terrain": {
     "GrassLength": "0x1e8",
@@ -134,7 +134,7 @@
     "WaterWaveSize": "0x1f8",
     "WaterWaveSpeed": "0x1fc",
     "WaterColor": "0x1d8",
-    "MaterialColors": "0x490"
+    "MaterialColors": "0x4b0"
   },
   "MaterialColors": {
     "Asphalt": "0x30",
@@ -170,19 +170,19 @@
     "Looped": "0x13d"
   },
   "SpawnLocation": {
-    "AllowTeamChangeOnTouch": "0x3d",
+    "AllowTeamChangeOnTouch": "0x1e8",
     "Enabled": "0x1e9",
     "Neutral": "0x1ea",
     "ForcefieldDuration": "0x1e0",
     "TeamColor": "0x1e4"
   },
   "SurfaceAppearance": {
-    "AlphaMode": "0x290",
-    "Color": "0x278",
+    "AlphaMode": "0x1f0",
+    "Color": "0x1d8",
     "ColorMap": "0xc8",
     "EmissiveMaskContent": "0xf8",
-    "EmissiveStrength": "0x294",
-    "EmissiveTint": "0x284",
+    "EmissiveStrength": "0x1f4",
+    "EmissiveTint": "0x1e4",
     "MetalnessMap": "0x128",
     "NormalMap": "0x158",
     "RoughnessMap": "0x188"
@@ -221,7 +221,7 @@
   },
   "Player": {
     "LocalPlayer": "0x130",
-    "UserId": "0x300",
+    "UserId": "0xd0",
     "DisplayName": "0x138",
     "HealthDisplayDistance": "0x394",
     "NameDisplayDistance": "0x3a4",
@@ -233,7 +233,7 @@
     "MinZoomDistance": "0x36c",
     "MaxZoomDistance": "0x368",
     "CameraMode": "0x370",
-    "Mouse": "0x11f0"
+    "Mouse": "0x1208"
   },
   "Team": {
     "BrickColor": "0xb8"
@@ -260,19 +260,19 @@
     "RigType": "0x1c0",
     "Jump": "0x1da",
     "Sit": "0x1dd",
-    "PlatformStand": "0xc5",
-    "UseJumpPower": "0xc5",
+    "PlatformStand": "0x1dc",
+    "UseJumpPower": "0x1e0",
     "AutomaticScalingEnabled": "0x1d6",
     "BreakJointsOnDeath": "0x1d7",
     "EvaluateStateMachine": "0x1d8",
     "RequiresNeck": "0x1dd",
     "AutoJumpEnabled": "0x1d4",
     "AutoRotate": "0x1d5",
-    "IsWalking": "0x93f",
+    "IsWalking": "0x967",
     "MoveToPoint": "0x164",
     "MoveToPart": "0x118",
     "WalkTimer": "0x408",
-    "HumanoidState": "0x898",
+    "HumanoidState": "0x8c0",
     "HumanoidStateID": "0x20",
     "FloorMaterial": "0x184",
     "TargetPoint": "0x14c",
@@ -348,8 +348,8 @@
     "CanQuery": "0x20"
   },
   "MeshPart": {
-    "MeshId": "0x308",
-    "Texture": "0x338"
+    "MeshId": "0x310",
+    "Texture": "0x340"
   },
   "Model": {
     "PrimaryPart": "0x258",
@@ -371,7 +371,7 @@
     "Part1": "0xc8"
   },
   "UnionOperation": {
-    "AssetId": "0x308"
+    "AssetId": "0x310"
   },
   "PlayerMouse": {
     "Workspace": "0x150",
@@ -383,11 +383,11 @@
     "Size": "0x530",
     "Visible": "0x5ad",
     "Image": "0x988",
-    "Text": "0xdf8",
+    "Text": "0xdf0",
     "RichText": "0xb88",
     "BackgroundColor3": "0x540",
     "BorderColor3": "0x54c",
-    "TextColor3": "0xea8",
+    "TextColor3": "0xea0",
     "LayoutOrder": "0x580",
     "ZIndex": "0x5a4",
     "BackgroundTransparency": "0x54c",
@@ -406,8 +406,8 @@
     "CapsLock": "0x40"
   },
   "Textures": {
-    "Decal_Texture": "0x180",
-    "Texture_Texture": "0x180"
+    "Decal_Texture": "0x1b0",
+    "Texture_Texture": "0x1b0"
   },
   "Lighting": {
     "ClockTime": "0xc8",
@@ -516,14 +516,14 @@
   },
   "AnimationTrack": {
     "Animation": "0xb8",
-    "Animator": "0x108",
+    "Animator": "0x110",
     "Speed": "0xd4",
     "TimePosition": "0xd8",
     "Looped": "0xe5",
-    "IsPlaying": "0xa90"
+    "IsPlaying": "0xa58"
   },
   "Animator": {
-    "ActiveAnimations": "0xb80"
+    "ActiveAnimations": "0xb50"
   },
   "LocalScript": {
     "GUID": "0xd0",
