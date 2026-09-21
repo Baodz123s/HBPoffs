@@ -8,31 +8,31 @@
   "Total Offsets": 390,
   "Offsets": {
     "FFlags": {
-      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7ca4430",
-      "MaxMissedWorldStepsRemembered": "0x7c28db0",
-      "PhysicsSenderMaxBandwidthBps": "0x7ca2a10",
-      "WorldStepsOffsetAdjustRate": "0x7c28d88",
-      "WorldStepMax": "0x7c28d60"
+      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7d1d830",
+      "MaxMissedWorldStepsRemembered": "0x7ca1e10",
+      "PhysicsSenderMaxBandwidthBps": "0x7d1be00",
+      "WorldStepsOffsetAdjustRate": "0x7ca1de8",
+      "WorldStepMax": "0x7ca1dc0"
     },
    "PlayerConfigurer": {
     "Pointer": "0x0"
   },
   "TaskScheduler": {
-    "Pointer": "0x8b5cee8",
+    "Pointer": "0x8bdd8e8",
     "JobStart": "0xc8",
     "JobEnd": "0xd0",
     "JobName": "0x18",
     "MaxFPS": "0xb0"
   },
   "VisualEngine": {
-    "Pointer": "0x83f0a08",
+    "Pointer": "0x846f768",
     "Dimensions": "0xb10",
     "ViewMatrix": "0x1b0",
     "RenderView": "0xc30",
     "FakeDataModel": "0xaf0"
   },
   "FakeDataModel": {
-    "Pointer": "0x8dc2258",
+    "Pointer": "0x8e42c98",
     "RealDataModel": "0x1f8"
   },
   "RenderView": {
@@ -77,19 +77,19 @@
     "AnimationId": "0xc0"
   },
   "DataModel": {
-    "PlaceId": "0x190",
-    "GameId": "0x188",
-    "CreatorId": "0x180",
-    "GameLoaded": "0x5d8",
-    "JobId": "0x118",
-    "Workspace": "0x158",
+    "PlaceId": "0x198",
+    "GameId": "0x190",
+    "CreatorId": "0x188",
+    "GameLoaded": "0x5e0",
+    "JobId": "0x120",
+    "Workspace": "0x160",
     "ScriptContext": "0x440",
-    "PlaceVersion": "0x1ac",
-    "ServerIP": "0x5c0",
-    "ToRenderView1": "0x1c8",
+    "PlaceVersion": "0x1b4",
+    "ServerIP": "0x5c8",
+    "ToRenderView1": "0x1d0",
     "ToRenderView2": "0x8",
     "ToRenderView3": "0x28",
-    "PrimitiveCount": "0x420"
+    "PrimitiveCount": "0x428"
   },
   "RunService": {
     "HeartbeatTask": "0xe0",
@@ -160,7 +160,7 @@
     "Looped": "0x13d"
   },
   "SpawnLocation": {
-    "AllowTeamChangeOnTouch": "0x1f0",
+    "AllowTeamChangeOnTouch": "0x3d",
     "Enabled": "0x1f1",
     "Neutral": "0x1f2",
     "ForcefieldDuration": "0x1e8",
@@ -253,7 +253,7 @@
     "PlatformStand": "0x1dc",
     "UseJumpPower": "0x1e0",
     "AutomaticScalingEnabled": "0x1d6",
-    "BreakJointsOnDeath": "0x1d7",
+    "BreakJointsOnDeath": "0xc5",
     "EvaluateStateMachine": "0x1d8",
     "RequiresNeck": "0x1dd",
     "AutoJumpEnabled": "0x1d4",
@@ -279,15 +279,15 @@
     "TurnSpeed": "0x238"
   },
   "StatsItem": {
-    "Value": "0x1091"
+    "Value": "0xd66a"
   },
   "Tool": {
     "Tooltip": "0x468",
     "TextureId": "0x360",
     "Grip": "0x4ac",
-    "Enabled": "0x4b9",
+    "Enabled": "0x475",
     "CanBeDropped": "0x4b8",
-    "ManualActivationOnly": "0x4ba",
+    "ManualActivationOnly": "0x295",
     "RequiresHandle": "0x4bb"
   },
   "Clothing": {
@@ -321,15 +321,15 @@
     "Reflectance": "0x10c"
   },
   "Primitive": {
-    "Position": "0xec",
+    "Position": "0xd4",
     "Validate": "0x6",
-    "Owner": "0x210",
-    "Size": "0x1bc",
-    "Rotation": "0xc8",
-    "Flags": "0x1b6",
+    "Owner": "0x218",
+    "Size": "0x1c4",
+    "Rotation": "0xb0",
+    "Flags": "0x1be",
     "Material": "0x0",
-    "AssemblyLinearVelocity": "0xf8",
-    "AssemblyAngularVelocity": "0x104"
+    "AssemblyLinearVelocity": "0xe0",
+    "AssemblyAngularVelocity": "0xec"
   },
   "PrimitiveFlags": {
     "Anchored": "0x2",
@@ -541,10 +541,10 @@
   "LRUNode": {
     "Next": "0x0",
     "AssetID": "0x10",
-    "CachedItem": "0x38"
+    "CachedItem": "0x40"
   },
   "CachedItem": {
-    "FileMeshData": "0x28"
+    "FileMeshData": "0x40"
   },
   "FileMeshData": {
     "AABBMin": "0x180",
