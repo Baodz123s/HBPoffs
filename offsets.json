@@ -8,31 +8,31 @@
   "Total Offsets": 390,
   "Offsets": {
     "FFlags": {
-      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7dba008",
-      "MaxMissedWorldStepsRemembered": "0x7d4b2c8",
-      "PhysicsSenderMaxBandwidthBps": "0x7db8768",
-      "WorldStepsOffsetAdjustRate": "0x7d4b2a0",
-      "WorldStepMax": "0x7d4b278"
+      "GameNetPVHeaderTranslationZeroCutoffExp": "0x7dfd5b0",
+      "MaxMissedWorldStepsRemembered": "0x7d8f4e8",
+      "PhysicsSenderMaxBandwidthBps": "0x7dfcb60",
+      "WorldStepsOffsetAdjustRate": "0x7d8f4c0",
+      "WorldStepMax": "0x7d8f498"
     },
    "PlayerConfigurer": {
     "Pointer": "0x0"
   },
   "TaskScheduler": {
-    "Pointer": "0x8c8d108",
+    "Pointer": "0x8aff2a0",
     "JobStart": "0xc8",
     "JobEnd": "0xd0",
     "JobName": "0x18",
     "MaxFPS": "0xb0"
   },
   "VisualEngine": {
-    "Pointer": "0x851bf08",
+    "Pointer": "0x858d208",
     "Dimensions": "0xb10",
     "ViewMatrix": "0x1b0",
     "RenderView": "0xc30",
     "FakeDataModel": "0xaf0"
   },
   "FakeDataModel": {
-    "Pointer": "0x8ee1728",
+    "Pointer": "0x8b54980",
     "RealDataModel": "0x1f8"
   },
   "RenderView": {
@@ -93,7 +93,7 @@
   },
   "RunService": {
     "HeartbeatTask": "0xe0",
-    "HeartbeatFPS": "0xc0"
+    "HeartbeatFPS": "0xc8"
   },
   "RenderJob": {
     "RenderView": "0x1d8",
@@ -102,13 +102,13 @@
   },
   "Workspace": {
     "World": "0x400",
-    "ReadOnlyGravity": "0x9f0",
+    "ReadOnlyGravity": "0x9b8",
     "DistributedGameTime": "0x4c8",
     "CurrentCamera": "0x4a8"
   },
   "World": {
     "Gravity": "0x22c",
-    "worldStepsPerSec": "0x728",
+    "worldStepsPerSec": "0x748",
     "FallenPartsDestroyHeight": "0x220",
     "AirProperties": "0x240",
     "Primitives": "0x2b0"
@@ -223,7 +223,7 @@
     "MinZoomDistance": "0x35c",
     "MaxZoomDistance": "0x358",
     "CameraMode": "0x360",
-    "Mouse": "0x1200"
+    "Mouse": "0x1208"
   },
   "Team": {
     "BrickColor": "0xa8"
@@ -279,7 +279,7 @@
     "TurnSpeed": "0x228"
   },
   "StatsItem": {
-    "Value": "0xf80"
+    "Value": "0x1259"
   },
   "Tool": {
     "Tooltip": "0x458",
@@ -379,7 +379,7 @@
     "BorderColor3": "0x53c",
     "TextColor3": "0xea0",
     "LayoutOrder": "0x56c",
-    "ZIndex": "0x1b7",
+    "ZIndex": "0x594",
     "BackgroundTransparency": "0x53c",
     "Rotation": "0xd8"
   },
@@ -510,7 +510,7 @@
     "Speed": "0xc4",
     "TimePosition": "0xc8",
     "Looped": "0xd5",
-    "IsPlaying": "0x522"
+    "IsPlaying": "0xa48"
   },
   "Animator": {
     "ActiveAnimations": "0xa80"
@@ -541,10 +541,10 @@
   "LRUNode": {
     "Next": "0x0",
     "AssetID": "0x10",
-    "CachedItem": "0x38"
+    "CachedItem": "0x40"
   },
   "CachedItem": {
-    "FileMeshData": "0x28"
+    "FileMeshData": "0x40"
   },
   "FileMeshData": {
     "AABBMin": "0x180",
